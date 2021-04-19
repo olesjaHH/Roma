@@ -101,11 +101,7 @@ section h1 {
     line-height: 3rem;
     width: 90%;
 }
-.parallax2 {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(../img/cleo-topper.jpg) center / cover no-repeat;
-    min-height: 50vh;
-    background-attachment: fixed;
-}
+
 #kids {
     background: url(../img/kid.png) center / cover no-repeat , url(../img/see.png) center / cover no-repeat;
     height: 100vh;
